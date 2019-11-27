@@ -54,7 +54,7 @@ NavBar.protoTypes = {
 }
 
 NavBar.defaultProps = {
-  title: "Contact Keeper",
+  title: "Contact Keeper by MS",
   icon: "fas fs-id-card-alt"
 }
 
